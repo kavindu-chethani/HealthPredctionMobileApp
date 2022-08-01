@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477319122558",
+    "firebase_url": "https://face-shield-5bca8-default-rtdb.firebaseio.com",
+    "project_id": "face-shield-5bca8",
+    "storage_bucket": "face-shield-5bca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477319122558:android:e295331d0408f4f26a522f",
+        "android_client_info": {
+          "package_name": "com.example.healthpredctionnewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477319122558-9i01c8quq3da416d4emmso7afakb8e1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqDwMFSI7Cx29ojQssQZgi2lD50oeTg1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477319122558-9i01c8quq3da416d4emmso7afakb8e1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
